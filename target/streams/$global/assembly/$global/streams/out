@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: spark-daria-0.35.2-s_2.11.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: sext-0.2.4.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-library-2.11.12.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-reflect-2.11.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.github.nikita-volkov/sext/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.github.nikita-volkov/sext/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to 3 files[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /home/artyom/myprojects/dataengineer/jsonreader/json_reader_komarov/target/scala-2.11/json_reader_komarov-assembly-0.0.1.jar[0m
