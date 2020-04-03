@@ -25,9 +25,11 @@ object JsonReader extends App {
         implicit val formats = DefaultFormats
 
         val result = json.map(s => parse(s).extract[JsonData])
-        result.collect().foreach(println)
+        result.foreach(line => println(line.toString))
             //result.take(n).foreach(println)
     }
 }
+
+
 
 
