@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/json_reader_komarov_2.11-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/SparkSessionWrapper$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers/my/cool/project/SparkSessionWrapper$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonReader$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/JsonReader$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/SparkSessionWrapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers/my/cool/project/SparkSessionWrapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers/my/cool[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers/my[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonReader$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/JsonReader$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/JsonReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/Manners.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers/my/cool/project/Manners.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/JsonData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers/my/cool/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonReader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/JsonReader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/Manners$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/com/github/mrpowers/my/cool/project/Manners$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/artyom/myprojects/dataengineer/git/DE_2020_spark_scala/target/scala-2.11/classes/JsonData.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
