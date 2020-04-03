@@ -2,12 +2,12 @@
 [0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
 [0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalatest.tools.Framework produced 1 initial tasks for 1 tests.[0m
-[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(com.github.mrpowers.my.cool.project.MannersSpec, sbt.ForkMain$SubclassFingerscan@6f6e0550, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(com.github.mrpowers.my.cool.project.MannersSpec, sbt.ForkMain$SubclassFingerscan@209a3523, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mMannersSpec:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m.happyData[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- appends a happy column to a DataFrame (16 seconds, 309 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- appends a happy column to a DataFrame (1 minute, 14 seconds)[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 18 seconds, 738 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 minute, 22 seconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m[0m
