@@ -36,3 +36,4 @@ object JsonReader extends App {
 
 
 
+///opt/apache-spark/bin/spark-submit --master "local[2]" --class main.scala.com.github.mrpowers.my.cool.project.JsonReader  target/scala-2.11/json_reader_komarov-assembly-0.0.1.jar "data/winemag-data-130k-v2.json"
