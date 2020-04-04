@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/toemik/projects/jascala/DE_2020_spark_scala/src/test/scala/com/github/mrpowers/my/cool/project/MannersSpec.scala:26:41: not found: value Manners[0m
+[0m[[0m[31merror[0m] [0m[0m      val actualDF = sourceDF.transform(Manners.happyData())[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
