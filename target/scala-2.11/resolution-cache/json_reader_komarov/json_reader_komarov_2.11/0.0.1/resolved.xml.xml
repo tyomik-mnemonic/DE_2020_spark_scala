@@ -4,7 +4,7 @@
 		module="json_reader_komarov_2.11"
 		revision="0.0.1"
 		status="integration"
-		publication="20200404020046"
+		publication="20200404064706"
 	>
 		<description>
 		json_reader_komarov
@@ -33,7 +33,6 @@
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.12" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.12" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.4.4" conf="provided->default(compile)"/>
-		<dependency org="com.github.nikita-volkov" name="sext" rev="0.2.4" conf="compile->default(compile)"/>
 		<dependency org="mrpowers" name="spark-daria" rev="0.35.2-s_2.11" conf="compile->default(compile)"/>
 		<dependency org="MrPowers" name="spark-fast-tests" rev="0.20.0-s_2.11" conf="test->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="3.0.1" conf="test->default(compile)"/>

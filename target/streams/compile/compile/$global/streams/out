@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/artyom/myprojects/dataengineer/jsonreader/json_reader_komarov/src/main/scala/JsonReader.scala:36:131: Invalid literal number[0m
-[0m[[0m[31merror[0m] [0m[0mspark-submit --master local[*] --class com.JsonReader target/scala-2.11/json_reader_komarov-assembly-0.0.1.jar {data/winemag-data-130k-v2.json}[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                                                                                  ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/artyom/myprojects/dataengineer/jsonreader/json_reader_komarov/src/main/scala/JsonReader.scala:36:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mspark-submit --master local[*] --class com.JsonReader target/scala-2.11/json_reader_komarov-assembly-0.0.1.jar {data/winemag-data-130k-v2.json}[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/toemik/projects/jascala/DE_2020_spark_scala/src/main/scala/com/github/mrpowers/my/cool/project/JsonReader.scala:27:20: recursive value path needs type[0m
+[0m[[0m[31merror[0m] [0m[0m        val path = path(0)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

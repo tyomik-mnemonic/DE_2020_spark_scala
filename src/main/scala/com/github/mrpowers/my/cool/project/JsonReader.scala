@@ -1,35 +1,36 @@
+package com.github.mrpowers.my.cool.project
+
 import org.json4s._
 import org.json4s.jackson.JsonMethods._
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 import org.apache.spark.SparkConf
+import org.json4s.jackson.Serialization
+import org.json4s.jackson.Serialization.read
 
 
 
+case class JsonData(
+                    id: Option[BigInt], 
+                    country: Option[String],
+                    points: Option[BigInt], 
+                    price: Option[Double], 
+                    title: Option[String], 
+                    variety: Option[String], 
+                    winery: Option[String])
 
-case class JsonData(country:String,
-                        id: BigInt, 
-                        points: BigInt, 
-                        price: Option[Double], 
-                        title: String, 
-                        variety: String, 
-                        winery: String)
-
-object JsonReader extends App {
-    def main(path: String) : Unit = {
+object JsonReader{
+    def main(args: Array[String]) {
         val conf = new SparkConf().setAppName("JsonReader").setMaster("local")
-        val sc = new SparkContext(conf)
+        val sc = new SparkContext(conf);
         
-        //val path: String = "file:///data/winemag-data-130k-v2.json"
+        val path = args(0)
         val json = sc.textFile(path)
         implicit val formats = DefaultFormats
-		
-		println("testsss ---------->")
-		
-        val result = json.map(s => parse(s).extract[JsonData])
-        result.take(30).foreach(println)
-			//(line => println(line.toString))
-            //result.take(n).foreach(println)
+						
+        val result = json.map{s => implicit val formats = DefaultFormats; parse(s).extract[JsonData]}
+        result.map(println).collect
+     
     }
 }
 

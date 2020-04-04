@@ -9,12 +9,11 @@ scalaVersion := "2.11.12"
 
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.4" % "provided"
 
-libraryDependencies += "com.github.nikita-volkov" % "sext" % "0.2.4"
-
 libraryDependencies += "mrpowers" % "spark-daria" % "0.35.2-s_2.11"
 
 libraryDependencies += "MrPowers" % "spark-fast-tests" % "0.20.0-s_2.11" % "test"
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
+
 
 // test suite settings
 fork in Test := true
