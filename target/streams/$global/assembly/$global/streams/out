@@ -5,7 +5,7 @@
 [0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
 [0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
 [0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to a file[0m
-[0m[[0m[0minfo[0m] [0m[0mSHA-1: f16ddf9084eded79ce071dc78309ffb6c4b1ff2c[0m
+[0m[[0m[0minfo[0m] [0m[0mSHA-1: 491116305c87c4b55312557bcca09910b3d3a9b4[0m
 [0m[[0m[0minfo[0m] [0m[0mPackaging /home/toemik/projects/jascala/DE_2020_spark_scala/target/scala-2.11/json_reader_komarov-assembly-0.0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/JsonData$.class[0m

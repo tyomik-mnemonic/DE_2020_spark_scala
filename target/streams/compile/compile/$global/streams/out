@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/toemik/projects/jascala/DE_2020_spark_scala/src/main/scala/com/github/mrpowers/my/cool/project/JsonReader.scala:27:20: recursive value path needs type[0m
-[0m[[0m[31merror[0m] [0m[0m        val path = path(0)[0m
-[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/toemik/projects/jascala/DE_2020_spark_scala/src/main/scala/com/github/mrpowers/my/cool/project/JsonReader.scala:33:19: not found: value s[0m
+[0m[[0m[31merror[0m] [0m[0m     	result.take(s).foreach(println)[0m
+[0m[[0m[31merror[0m] [0m[0m     	            ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -29,8 +29,8 @@ object JsonReader{
         implicit val formats = DefaultFormats
 						
         val result = json.map{s => implicit val formats = DefaultFormats; parse(s).extract[JsonData]}
-        result.map(println).collect
-     
+        //result.map(println).collect
+     	result.take(300).foreach(println)
     }
 }
 
